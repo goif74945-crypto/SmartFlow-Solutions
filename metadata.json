@@ -1,8 +1,9 @@
 {
-  "name": "Aegis AI Command Center",
-  "description": "A private, deterministic AI orchestration platform for mission-critical operations with human-in-the-loop governance.",
+  "name": "Omni-Evolve Absolute Core Unified",
+  "description": "Deterministic Hacker-Grade Meta-Orchestration System for multi-modal emission and zero-error governance.",
   "requestFramePermissions": [
     "microphone",
-    "camera"
+    "camera",
+    "geolocation"
   ]
 }
